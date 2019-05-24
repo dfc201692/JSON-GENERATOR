@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "activo": true,
+    "balance": "$3,020.980",
+    "foto": "http://placehold.it/32x32",
+    "edad": 32,
+    "nombre": "Samantha Glenn",
+    "genero": "female",
+    "compania": "MANTRIX",
+    "email": "samanthaglenn@mantrix.com",
+    "direccion": "738 Seabring Street, Derwood, Guam",
+    "zip": 7338
+  },
+  {
+    "id": 1,
+    "activo": true,
+    "balance": "$2,689.620",
+    "foto": "http://placehold.it/32x32",
+    "edad": 26,
+    "nombre": "Schroeder Houston",
+    "genero": "male",
+    "compania": "PLUTORQUE",
+    "email": "schroederhouston@plutorque.com",
+    "direccion": "410 Commerce Street, Thomasville, Northern Mariana Islands",
+    "zip": 6554
+  },
+  {
+    "id": 2,
+    "activo": true,
+    "balance": "$3,854.560",
+    "foto": "http://placehold.it/32x32",
+    "edad": 20,
+    "nombre": "Barbra Rowe",
+    "genero": "female",
+    "compania": "CORPORANA",
+    "email": "barbrarowe@corporana.com",
+    "direccion": "341 Highlawn Avenue, Imperial, Palau",
+    "zip": 6294
+  }
+]
